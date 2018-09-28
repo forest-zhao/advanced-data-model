@@ -1,6 +1,5 @@
 # advanced-data-model
 
-Advanced data model project is to use mangodb and neo4j to build models on a data set
-respectively and use the model for a list of target queries. The project is similar to the
-practical problems in Knowledge sharing platform like zhihu. And the given data needs
-some pre-processing
+The project is to work with mongodb and neo4j to design data schema for a Question and Answer data set respectively to answer a list of target queries respectively which include very basic OLTP type queries and
+analytic queries. 
+
